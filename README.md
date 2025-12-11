@@ -1,4 +1,6 @@
-# USCthesis
+# USCthesis (2025)
+
+**Updated Version in 2025** This is a forked repo and the .sty file is updated so the format of the table of content aligns with the USC graduate school requirements in 2025.
 
 **USCthesis** provides a LaTeX style package for writing your thesis,
 dissertation, or thesis proposal at the University of Southern
@@ -24,8 +26,8 @@ The full changelog can be found inside [USCthesis.sty](USCthesis.sty).
 
 ## known issues
 
-* has not been tested with thesis proposals
+- has not been tested with thesis proposals
 
 ## other templates
 
-* [rudazhang/USCthesis](https://github.com/rudazhang/USCthesis)
+- [rudazhang/USCthesis](https://github.com/rudazhang/USCthesis)
